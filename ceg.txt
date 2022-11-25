@@ -8,10 +8,10 @@ A cégünk (DFTH) utazási irodák informatika korszerűsítésével foglalkozik
 
 cég alkalmazottak bemutatása:
   vezér igazgató: Nagy Bernát
-  
+  Az eredeti alapító fia, a hamar elért sikereinek és tanulmányainak köszönhetően átvette a céget viszonylag fiatalon amíg az apja személyes tanácsadóként melette maradt. A cég átvétele után elég hamar mindenkori csúcsot ért el és azóta is viszi előre sikeresen a céget.
 
   backend project manager:  Sinka Dávid
-  Dávid felel a szoftvereink backend feléért és ő menedzseli a fejlesztését, személyre szabását és naprakészen tartását a rendszereinknek, szoftvereinknek és programjainknak
+  Dávid felel a szoftvereink backend feléért és ő menedzseli a fejlesztését, személyre szabását és naprakészen tartását a rendszereinknek, szoftvereinknek és programjainknak.
 
   designer/social media manager:  Wittinger Iván
   Iván felel a felhasználói- és a szerver felületek dizájnjáért. Az ő felelősége a cégekkel, ügyfelekkel való kapcsolat tartás.
