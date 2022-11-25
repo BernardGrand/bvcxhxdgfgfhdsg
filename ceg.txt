@@ -1,5 +1,17 @@
 név:  Don't Fly off The Handle [ DFTH ]
 alapítás dátuma:  1993 November 25.
-vezér igazgató: Nagy Bernát
-backend project manager:  Sinka Dávid
-designer/social media manager:  Wittinger Iván
+
+
+
+cég bemutatása:
+A cégünk (DFTH) utazási irodák informatika korszerűsítésével foglalkozik és a célunk felhasználóbarát rendszerek fejlesztése és alkalmazása. 
+
+cég alkalmazottak bemutatása:
+  vezér igazgató: Nagy Bernát
+  
+
+  backend project manager:  Sinka Dávid
+  Dávid felel a szoftvereink backend feléért és ő menedzseli a fejlesztését, személyre szabását és naprakészen tartását a rendszereinknek, szoftvereinknek és programjainknak
+
+  designer/social media manager:  Wittinger Iván
+  Iván felel a felhasználói- és a szerver felületek dizájnjáért. Az ő felelősége a cégekkel, ügyfelekkel való kapcsolat tartás.
